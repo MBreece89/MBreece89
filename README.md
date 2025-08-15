@@ -54,7 +54,6 @@
 ---
 
 ## 📊 GitHub Overview
-![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBreece89&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBreece89&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
