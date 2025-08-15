@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hi, I'm Mason Breece
 
 💻 **Senior Software Engineer** with years of experience in backend, frontend, and cloud-native development.  
