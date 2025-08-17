@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Mason Breece
+# 👋 Hi, I'm Mason
 
 💻 **Senior Software Engineer** with years of experience in backend, frontend, and cloud-native development.  
 🚀 Skilled at designing scalable systems, leading complex integrations, and delivering secure, high-performance software.  
@@ -33,25 +33,6 @@
 
 ---
 
-## 💼 Experience Highlights
-
-### **AT&T – Senior Software Engineer** (2021–Present)
-- Led **critical API integrations** to ensure seamless data flow and system functionality across multiple platforms.
-- Designed and implemented **REST API interactions** for a vendor transition handling **90,000+ fleet fuel cards**.
-- Developed a **secure file distribution system** with automated publishing, encryption, and controlled access.
-- Created **API monitoring protocols** that reduced downtime and boosted performance.
-
-### **AT&T – Technology Development Engineer II** (2019–2021)
-- Maintained a **fleet management application** serving **90,000+ vehicles** for scalability and reliability.
-- Integrated **Mitchell OnDemand**, enhancing data accessibility for automotive repairs.
-- Resolved **security vulnerabilities** and maintained legacy codebases.
-- Automated **database tasks**, reducing manual work and improving accuracy.
-
-### **University of Missouri – Research Assistant** (2017–2019)
-- Built innovative software tools for academic research projects.
-- Optimized applications for **performance, reliability, and usability**.
-
----
 
 ## 📊 GitHub Overview
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBreece89&layout=compact&theme=tokyonight&hide_border=true)
